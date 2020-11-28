@@ -1,0 +1,22 @@
+body{
+    margin: 30% 100px;
+    background-color: beige;
+}
+
+.main{
+    padding:70px;
+    border: 1px solid;
+}
+h1,h2{
+    display: flex;
+    justify-content: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+
+#add_button,#sub_button,#reset{
+    margin: 3px;
+}
