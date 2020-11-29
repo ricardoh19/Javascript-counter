@@ -5,4 +5,4 @@ A JavaScript Counter using increment, decrement, and reset buttons.
 What I Learned
 ---------------------------
 • Javascript event handling  
-• DOM traversal
+• DOM (document object model) traversal
